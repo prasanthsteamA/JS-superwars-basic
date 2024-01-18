@@ -1,4 +1,4 @@
-# ProGrad
+# SteamA
 
 ## Superwars
 
@@ -18,7 +18,7 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy he li
 
   ```
   git add .
-  git commit -m "prograd ID"
+  git commit -m "steam ID"
   git push origin master
   ```
 
