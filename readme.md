@@ -18,7 +18,7 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy he li
 
   ```
   git add .
-  git commit -m "steam ID"
+  git commit -m "steamA ID"
   git push origin master
   ```
 
